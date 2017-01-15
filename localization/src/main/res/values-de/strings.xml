@@ -265,6 +265,7 @@
     <string name="possible_for_xxx">Seit xxx möglich</string>
     <string name="vocabulary_must_be_load_from_archive_latency">Vokabeln müssen aus dem Archiv geladen werden (Wartezeit)!</string>
     <string name="not_cached">nicht geladen</string>
+    <string name="done">Fertig!</string>
 
     <!-- Unit/Collection -->
     <string name="the_collection_was_imported_successfully">Die Sammlung wurde erfolgreich importiert!</string>

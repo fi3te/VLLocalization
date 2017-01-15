@@ -68,6 +68,7 @@
     <string name="directory_dialog_information">It searches for CSV files in the specified directory as well as in the folders contained therein (further subfolders are not taken into account).</string>
     <string name="do_you_really_want_to_delete_the_collection_xxx_all_vocabulary_of_the_collection_will_be_deleted">Do you really want to delete the collection xxx? \nAll vocabulary will be deleted!</string>
     <string name="do_you_really_want_to_delete_the_library_xxx">Do you really want to delete the library xxx?</string>
+    <string name="done">Done!</string>
     <string name="each_vocabulary_one_time_correct">Each vocabulary 1x correct</string>
     <string name="edit_information">Edit information</string>
     <string name="edit_library">Edit library</string>
