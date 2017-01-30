@@ -166,7 +166,7 @@
     <string name="the_collection_is_sent">Die Sammlung wird versendet...</string>
     <string name="the_collection_was_sent_successfully">Die Sammlung wurde erfolgreich versendet.</string>
     <string name="an_error_has_occurred_while_sending">Beim Senden ist ein Fehler aufgetreten.</string>
-    <string name="still_waits_xxx_seconds_for_a_connection">Wartet noch xxxs auf eine Verbindung...</string>
+    <string name="still_waits_xxx_seconds_for_a_connection">Wartet noch %d Sekunden auf eine Verbindung...</string>
     <string name="there_was_no_connection_established">Es wurde keine Verbindung aufgebaut.</string>
     <string name="transmitter_and_receiver_need_the_same_version_of_the_app">Sender und Empfänger benötigen die gleiche Version der App!</string>
     <string name="an_error_has_occurred_while_receiving">Beim Empfangen ist ein Fehler aufgetreten.</string>
@@ -218,8 +218,8 @@
     <string name="the_library_was_deleted_successfully">Die Bibliothek wurde erfolgreich entfernt!</string>
     <string name="the_library_was_renamed_successfully">Die Bibliothek wurde erfolgreich umbenannt!</string>
     <string name="the_library_was_not_renamed">Die Bibliothek wurde nicht umbenannt.</string>
-    <string name="do_you_really_want_to_delete_the_library_xxx">Möchten Sie wirklich die Bibliothek xxx entfernen?</string>
-    <string name="do_you_really_want_to_delete_the_collection_xxx_all_vocabulary_of_the_collection_will_be_deleted">Möchten Sie wirklich die Sammlung xxx entfernen? \nAchtung: Alle Vokabeln der Sammlung werden dadurch gelöscht!</string>
+    <string name="do_you_really_want_to_delete_the_library_xxx">Möchten Sie wirklich die Bibliothek %s entfernen?</string>
+    <string name="do_you_really_want_to_delete_the_collection_xxx_all_vocabulary_of_the_collection_will_be_deleted">Möchten Sie wirklich die Sammlung %s entfernen? \nAchtung: Alle Vokabeln der Sammlung werden dadurch gelöscht!</string>
     <string name="modify">Ändern</string>
     <string name="rename">Umbenennen</string>
     <string name="remove">Entfernen</string>
@@ -262,7 +262,7 @@
     <string name="night_s_rest_summary">deaktiviert Benachrichtigungen in diesem Zeitraum</string>
     <string name="beginning_of_the_night_s_rest">Beginn der Nachtruhe</string>
     <string name="ending_of_the_night_s_rest">Ende der Nachtruhe</string>
-    <string name="possible_for_xxx">Seit xxx möglich</string>
+    <string name="possible_for_xxx">Seit %s möglich</string>
     <string name="vocabulary_must_be_load_from_archive_latency">Vokabeln müssen aus dem Archiv geladen werden (Wartezeit)!</string>
     <string name="not_cached">nicht geladen</string>
     <string name="done">Fertig!</string>
@@ -273,7 +273,7 @@
     <string name="the_collection_was_exported_successfully">Die Sammlung wurde erfolgreich exportiert!</string>
     <string name="the_collection_was_not_exported">Die Sammlung wurde nicht exportiert.</string>
     <string name="the_collection_was_deleted_successfully_._it_contained_one_word">Die Sammlung wurde erfolgreich gelöscht! Sie enthielt 1 Vokabel.</string>
-    <string name="the_collection_was_deleted_successfully_._it_contained_xxx_words">Die Sammlung wurde erfolgreich gelöscht! Sie enthielt xxx Vokabeln.</string>
+    <string name="the_collection_was_deleted_successfully_._it_contained_xxx_words">Die Sammlung wurde erfolgreich gelöscht! Sie enthielt %d Vokabeln.</string>
     <string name="the_collection_was_not_deleted">Die Sammlung wurde nicht gelöscht.</string>
 
     <!-- Backup -->

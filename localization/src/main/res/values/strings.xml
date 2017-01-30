@@ -66,8 +66,8 @@
     <string name="did_you_know_the_answer_question_mark">Did you know the answer?</string>
     <string name="direction_of_learning">Direction of learning</string>
     <string name="directory_dialog_information">It searches for CSV files in the specified directory as well as in the folders contained therein (further subfolders are not taken into account).</string>
-    <string name="do_you_really_want_to_delete_the_collection_xxx_all_vocabulary_of_the_collection_will_be_deleted">Do you really want to delete the collection xxx? \nAll vocabulary will be deleted!</string>
-    <string name="do_you_really_want_to_delete_the_library_xxx">Do you really want to delete the library xxx?</string>
+    <string name="do_you_really_want_to_delete_the_collection_xxx_all_vocabulary_of_the_collection_will_be_deleted">Do you really want to delete the collection %s? \nAll vocabulary will be deleted!</string>
+    <string name="do_you_really_want_to_delete_the_library_xxx">Do you really want to delete the library %s?</string>
     <string name="done">Done!</string>
     <string name="each_vocabulary_one_time_correct">Each vocabulary 1x correct</string>
     <string name="edit_information">Edit information</string>
@@ -164,7 +164,7 @@
     <string name="pair_mode">Pair mode</string>
     <string name="please_check_whether_your_answer_was_correct">Please check whether your answer was correct</string>
     <string name="please_enter_a_name">Please enter a name</string>
-    <string name="possible_for_xxx">Possible for xxx</string>
+    <string name="possible_for_xxx">Possible for %s</string>
     <string name="query">Query</string>
     <string name="question">Question</string>
     <string name="question_language">Question language</string>
@@ -207,7 +207,7 @@
     <string name="sort">Sort</string>
     <string name="sounds_and_vibration">Sounds and vibration</string>
     <string name="start">Start</string>
-    <string name="still_waits_xxx_seconds_for_a_connection">Still waits xxx seconds for a connection...</string>
+    <string name="still_waits_xxx_seconds_for_a_connection">Still waits %d seconds for a connection...</string>
     <string name="template_download">Template: Download</string>
     <string name="test">Test</string>
     <string name="text">Text</string>
@@ -223,7 +223,7 @@
     <string name="the_collection_was_changed">The collection was changed!</string>
     <string name="the_collection_was_created_successfully">The collection was created successfully!</string>
     <string name="the_collection_was_deleted_successfully_._it_contained_one_word">The collection was deleted successfully. It contained 1 word.</string>
-    <string name="the_collection_was_deleted_successfully_._it_contained_xxx_words">The collection was deleted successfully. It contained xxx words.</string>
+    <string name="the_collection_was_deleted_successfully_._it_contained_xxx_words">The collection was deleted successfully. It contained %d words.</string>
     <string name="the_collection_was_exported_successfully">The collection was exported successfully!</string>
     <string name="the_collection_was_imported_successfully">The collection was imported successfully!</string>
     <string name="the_collection_was_not_created">The collection was not created.</string>
