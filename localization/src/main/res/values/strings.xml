@@ -65,7 +65,7 @@
     <string name="device_not_discoverable">Device not discoverable</string>
     <string name="did_you_know_the_answer_question_mark">Did you know the answer?</string>
     <string name="direction_of_learning">Direction of learning</string>
-    <string name="directory_dialog_information">It searches for CSV files in the specified directory as well as in the folders contained therein (further subfolders are not taken into account).</string>
+    <string name="directory_dialog_information">It searches for JSON and CSV files in the specified directory as well as in the folders contained therein (further subfolders are not taken into account).</string>
     <string name="do_you_really_want_to_delete_the_collection_xxx_all_vocabulary_of_the_collection_will_be_deleted">Do you really want to delete the collection %s? \nAll vocabulary will be deleted!</string>
     <string name="do_you_really_want_to_delete_the_library_xxx">Do you really want to delete the library %s?</string>
     <string name="done">Done!</string>

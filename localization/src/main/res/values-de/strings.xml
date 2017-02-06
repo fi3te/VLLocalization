@@ -188,7 +188,7 @@
     <string name="in_seconds">in Sek.</string>
     <string name="time_match_is_running">Zeitspiel läuft gerade</string>
     <string name="remove_whitespaces_information">entfernt bei der Eingabe unnötige Leerzeichen vor dem ersten und nach dem letzten Wort der Vokabel (auch doppelte Leerzeichen zwischen einzelnen Wörtern werden entfernt)</string>
-    <string name="directory_dialog_information">Es wird sowohl in dem angegebenen Verzeichnis als auch in den darin enthaltenen Ordnern nach CSV-Dateien gesucht (weitere Unterordner werden nicht berücksichtigt).</string>
+    <string name="directory_dialog_information">Es wird sowohl in dem angegebenen Verzeichnis als auch in den darin enthaltenen Ordnern nach JSON- und CSV-Dateien gesucht (weitere Unterordner werden nicht berücksichtigt).</string>
     <string name="contact">E-Mail: fiete.wennier@gmail.com \nTel.: auf Anfrage</string>
     <string name="updates">Danke für den Download!</string>
     <string name="eula">Keine</string>
