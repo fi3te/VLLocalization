@@ -281,6 +281,7 @@
     <string name="save_additional_information">Save additional information \\n(Additional information includes, for example, the learning progress)</string>
     <string name="vocabulary_must_be_load_from_archive_latency">Vocabulary must be load from archive (latency)!</string>
     <string name="not_cached">not cached</string>
+    <string name="meaning_in_xxx">Meaning in %s</string>
 
 
     <!-- FAQ -->
