@@ -267,6 +267,9 @@
     <string name="not_cached">nicht geladen</string>
     <string name="done">Fertig!</string>
     <string name="meaning_in_xxx">Bedeutung auf %s</string>
+    <string name="selection">Auswahl</string>
+    <string name="one_word">1 Vokabel</string>
+    <string name="xxx_words">%d Vokabeln</string>
 
     <!-- Unit/Collection -->
     <string name="the_collection_was_imported_successfully">Die Sammlung wurde erfolgreich importiert!</string>
