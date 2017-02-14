@@ -283,6 +283,7 @@
     <string name="selection">Selection</string>
     <string name="one_word">1 word</string>
     <string name="xxx_words">%d words</string>
+    <string name="move">Move</string>
 
 
     <!-- FAQ -->
