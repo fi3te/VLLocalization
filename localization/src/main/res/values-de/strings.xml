@@ -59,8 +59,6 @@
     <string name="the_changes_have_been_saved">Die Änderungen wurden gespeichert!</string>
     <string name="delete">Löschen</string>
     <string name="the_changes_could_not_be_saved">Die Änderungen konnten nicht gespeichert werden!</string>
-    <string name="the_word_was_deleted">Die Vokabel wurde gelöscht!</string>
-    <string name="the_word_could_not_be_deleted">Die Vokabel konnte nicht gelöscht werden.</string>
     <string name="please_enter_a_name">Geben Sie bitte einen Namen ein</string>
     <string name="the_collection_was_created_successfully">Die Sammlung wurde erfolgreich erstellt!</string>
     <string name="rename_current_collection">Aktuelle Sammlung umbenennen</string>
@@ -318,5 +316,23 @@
     <string name="faq_answer_11">Bei dem Erstellen einer CSV&#8211;Datei für den Import muss man sicherstellen, dass ein Semikolon als Trennzeichen gewählt wird. Außerdem muss die Kodierung UTF&#8211;8 sein. \nEs gibt insgesamt sechs Möglichkeiten, wie die Zeilen der CSV&#8211;Datei aussehen dürfen:\n\"Hund\";\"dog\"\n\"Hund\";\"dog\";\"5\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"5\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"2013&#8211;11&#8211;28T00:00\";\"2015&#8211;03&#8211;06T00:00\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"5\";\"2013&#8211;11&#8211;28T00:00\";\"2015&#8211;03&#8211;06T00:00\"\nDie Anführungszeichen sind unter Umständen nicht zwingend erforderlich. 5 ist dabei der Rang. Die zwei Zeitstempel sind das Erstelldatum und das Datum, an dem die Vokabel zuletzt den Rang gewechselt hat (Änderungsdatum).\nAus dem Änderungsdatum und dem Rang lässt sich der Zeitpunkt der nächsten Abfrage berechnen:\nRang 1: Änderungsdatum + 0 Tage\nRang 2: Änderungsdatum + 3 Tage\nRang 3: Änderungsdatum + 10 Tage\nRang 4: Änderungsdatum + 30 Tage\nRang 5: Änderungsdatum + 90 Tage\nRang 6: Änderungsdatum + 360 Tage</string>
     <string name="faq_question_12">Was bedeuten "nur aus der aktuellen Sammlung" und "Sprachauswahl berücksichtigen"?</string>
     <string name="faq_answer_12">"nur aus der aktuellen Sammlung" und "Sprachauswahl berücksichtigen" dienen dazu, nur bestimmte Vokabeln in der aktuellen Auswahl zu haben (Filter).\nHat man mehrere Sammlungen angelegt, wird nur die aktuelle Sammlung berücksichtigt, wenn man "nur aus der aktuellen Sammlung" angewählt hat.\nHat man Vokabeln unterschiedlicher Sprachen in der App, kann man die aktuelle Auswahl weiter über die Sprachauswahl filtern.</string>
+
+
+    <plurals name="delete_words">
+        <item quantity="one">Vokabel löschen</item>
+        <item quantity="other">Vokabeln löschen</item>
+    </plurals>
+    <plurals name="do_you_really_want_to_delete_the_selected_words">
+        <item quantity="one">Möchten Sie wirklich die ausgewählte Vokabel löschen?</item>
+        <item quantity="other">Möchten Sie wirklich die ausgewählten Vokabeln löschen?</item>
+    </plurals>
+    <plurals name="the_words_were_deleted">
+        <item quantity="one">Die Vokabel wurde gelöscht!</item>
+        <item quantity="other">Die Vokabeln wurden gelöscht!</item>
+    </plurals>
+    <plurals name="the_words_could_not_be_deleted">
+        <item quantity="one">Die Vokabel konnte nicht gelöscht werden!</item>
+        <item quantity="other">Die Vokabeln konnten nicht gelöscht werden!</item>
+    </plurals>
 
 </resources>

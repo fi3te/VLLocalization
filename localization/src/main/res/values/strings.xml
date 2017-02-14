@@ -246,8 +246,6 @@
     <string name="the_library_was_not_renamed">The library was not renamed.</string>
     <string name="the_library_was_renamed_successfully">The library was renamed successfully!</string>
     <string name="the_removal_of_the_collection_may_take_a_few_moments_depending_on_the_size_of_the_collection">The removal of the collection may take a few moments depending on the size of the collection.</string>
-    <string name="the_word_could_not_be_deleted">The word could not be deleted.</string>
-    <string name="the_word_was_deleted">The word was deleted!</string>
     <string name="there_was_no_connection_established">There was no connection established.</string>
     <string name="this_action_can_not_be_undone">This action can\'t be undone!</string>
     <string name="this_process_may_take_a_few_moments_depending_on_the_size_of_the_collections">This process may take a few moments depending on the size of the collections!</string>
@@ -312,5 +310,23 @@
     <string name="faq_answer_11">If you create a CSV-file by yourself be aware you use UTF-8 encoding and the semicolon as separation sign. \nThere are six possibilities to arrange the rows of the CSV-file:\n\"Hund\";\"dog\"\n\"Hund\";\"dog\";\"5\"\n\"German\";\"Hund\";\"English\";\"dog\"\n\"German\";\"Hund\";\"English\";\"dog\";\"5\"\n\"German\";\"Hund\";\"English\";\"dog\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\n\"German\";\"Hund\";\"English\";\"dog\";\"5\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\nIn certain circumstances the quotation marks are not necessary. 5 is the rank. The two time stamps are the date of creation and the date of the last changing of the rank (changing-date).\nWith the changing-date and the current rank you can calculate the moment of the next query:\nRank 1: changing-date + 0 days\nRank 2: changing-date + 3 days\nRank 3: changing-date + 10 days\nRank 4: changing-date + 30 days\nRank 5: changing-date + 90 days\nRank 6: changing-date + 360 days</string>
     <string name="faq_question_12">What is the meaning of "only from current collection" and "consider language selection"?</string>
     <string name="faq_answer_12">"Only from current collection" and "consider language selection" are used to limit the words in the current selection (filter). \nIf you select "only from current collection" only the current collection will be taken into account even if you have more then one. Do you have words of different languages you can limit the words taken into account by selecting a language pair.</string>
+
+
+    <plurals name="delete_words">
+        <item quantity="one">Delete word</item>
+        <item quantity="other">Delete words</item>
+    </plurals>
+    <plurals name="do_you_really_want_to_delete_the_selected_words">
+        <item quantity="one">Do you really want to delete the selected word?</item>
+        <item quantity="other">Do you really want to delete the selected words?</item>
+    </plurals>
+    <plurals name="the_words_were_deleted">
+        <item quantity="one">The word was deleted!</item>
+        <item quantity="other">The words were deleted!</item>
+    </plurals>
+    <plurals name="the_words_could_not_be_deleted">
+        <item quantity="one">The word could not be deleted!</item>
+        <item quantity="other">The words could not be deleted!</item>
+    </plurals>
 
 </resources>
