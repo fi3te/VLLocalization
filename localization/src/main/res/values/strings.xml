@@ -284,6 +284,7 @@
     <string name="one_word">1 word</string>
     <string name="xxx_words">%d words</string>
     <string name="move">Move</string>
+    <string name="move_to">Move to ...</string>
 
 
     <!-- FAQ -->
@@ -328,6 +329,14 @@
     <plurals name="the_words_could_not_be_deleted">
         <item quantity="one">The word could not be deleted!</item>
         <item quantity="other">The words could not be deleted!</item>
+    </plurals>
+    <plurals name="the_words_were_moved">
+        <item quantity="one">The word was moved!</item>
+        <item quantity="other">The words were moved!</item>
+    </plurals>
+    <plurals name="the_words_could_not_be_moved">
+        <item quantity="one">The word could not be moved!</item>
+        <item quantity="other">The words could not be moved!</item>
     </plurals>
 
 </resources>
