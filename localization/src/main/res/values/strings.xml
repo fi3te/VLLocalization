@@ -285,6 +285,9 @@
     <string name="xxx_words">%d words</string>
     <string name="move">Move</string>
     <string name="move_to">Move to ...</string>
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
 
 
     <!-- FAQ -->

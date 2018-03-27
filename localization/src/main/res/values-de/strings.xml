@@ -270,6 +270,9 @@
     <string name="xxx_words">%d Vokabeln</string>
     <string name="move">Verschieben</string>
     <string name="move_to">Verschieben nach ...</string>
+    <string name="theme">Design</string>
+    <string name="light">Hell</string>
+    <string name="dark">Dunkel</string>
 
     <!-- Unit/Collection -->
     <string name="the_collection_was_imported_successfully">Die Sammlung wurde erfolgreich importiert!</string>
