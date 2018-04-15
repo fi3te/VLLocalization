@@ -59,6 +59,7 @@
     <string name="delete_current_collection">Delete current collection</string>
     <string name="delete_library">Delete library</string>
     <string name="depending_on_the_volume_setting_Ringtone_and_notifications">depending on the volume setting \'Ringtone &amp; notifications\'</string>
+    <string name="notification_settings">Notification settings</string>
     <string name="descending">Descending</string>
     <string name="developer">Developer</string>
     <string name="developer_options">Developer options</string>

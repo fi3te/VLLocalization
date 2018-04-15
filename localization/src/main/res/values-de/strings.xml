@@ -125,6 +125,7 @@
     <string name="no_vocabulary">Keine Vokabeln</string>
     <string name="browseArchiveForVocabularyWhichMustBeQueried">Archiv für Abfrage durchsuchen</string>
     <string name="depending_on_the_volume_setting_Ringtone_and_notifications">abhängig von der Lautstärkeeinstellung \'Klingelton &amp; Benachrichtigungen\'</string>
+    <string name="notification_settings">Benachrichtigungseinstellungen</string>
     <string name="a_query_is_not_necessary">Eine Abfrage ist nicht nötig!</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="manage_collections">Sammlungen verwalten</string>
