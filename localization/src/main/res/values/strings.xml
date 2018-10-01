@@ -277,7 +277,7 @@
     <string name="bluetooth_enabled_information">Bluetooth enabled \n(necessarry for sending and receiving)</string>
     <string name="bluetooth_visibility_information">Visible to all bluetooth devices nearby \n(necessary for receiving)</string>
     <string name="remove_whitespaces_information">removes unnecessary whitespaces before the first and after the last word of the vocabulary (even double spaces between individual words are removed)</string>
-    <string name="save_additional_information">Save additional information \\n(Additional information includes, for example, the learning progress)</string>
+    <string name="save_additional_information">Save additional information \n(Additional information includes, for example, the learning progress)</string>
     <string name="vocabulary_must_be_load_from_archive_latency">Vocabulary must be load from archive (latency)!</string>
     <string name="not_cached">not cached</string>
     <string name="meaning_in_xxx">Meaning in %s</string>
