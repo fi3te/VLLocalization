@@ -95,7 +95,6 @@
     <string name="the_exported_collections_are_stored_here">Die exportierten Sammlungen werden hier gespeichert ;-)</string>
     <string name="the_already_imported_collections_are_stored_here">Die schon importierten Sammlungen werden hier gespeichert ;-)</string>
     <string name="all_csv_and_json_files_contained_in_this_folder_can_be_imported">Alle in diesem Ordner enthaltenen CSV- und JSON-Dateien können importiert werden.</string>
-    <string name="important_note_character_encoding_must_be_set_to_utf8_in_all_manually_created_csv_files">Wichtig: Bei allen händisch erstellten CSV-Dateien muss UTF-8 als Kodierung gewählt werden!</string>
     <string name="the_collection_was_not_created">Es wurde keine neue Sammlung erstellt.</string>
     <string name="the_collection_was_renamed_successfully">Die Sammlung wurde erfolgreich umbenannt!</string>
     <string name="the_collection_was_not_renamed">Die Sammlung wurde nicht umbenannt.</string>
@@ -247,7 +246,7 @@
     <string name="choose_view">Ansicht auswählen</string>
     <string name="choose_learn_mode">Lern-Modus auswählen</string>
     <string name="default_view">Standardansicht</string>
-    <string name="no_json_files_available">Keine JSON-Dateien vorhanden.</string>
+    <string name="no_csv_and_json_files_available">Keine CSV- und JSON-Dateien vorhanden.</string>
     <string name="words_are_loading_...">Vokabeln werden geladen...</string>
     <string name="unit_is_loading_...">Sammlung wird geladen...</string>
     <string name="mistakes">Fehler</string>
@@ -315,7 +314,7 @@
     <string name="faq_question_10">Was bedeuten die Zahlen auf der Seite "Vokabeln"?</string>
     <string name="faq_answer_10">Die Zahlen am linken Rand geben den Rang der Vokabel an. Wenn eine Vokabel im Rang aufsteigt, vergrößert sich auch die Dauer bis zur nächsten Abfrage im Rangmodus. Am rechten Rand ist die entsprechende Dauer angegeben (Tage, Stunden, Minuten).</string>
     <string name="faq_question_11">Was muss beim Importieren einer CSV-Datei beachtet werden?</string>
-    <string name="faq_answer_11">Bei dem Erstellen einer CSV&#8211;Datei für den Import muss man sicherstellen, dass ein Semikolon als Trennzeichen gewählt wird. Außerdem muss die Kodierung UTF&#8211;8 sein. \nEs gibt insgesamt sechs Möglichkeiten, wie die Zeilen der CSV&#8211;Datei aussehen dürfen:\n\"Hund\";\"dog\"\n\"Hund\";\"dog\";\"5\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"5\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"2013&#8211;11&#8211;28T00:00\";\"2015&#8211;03&#8211;06T00:00\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"5\";\"2013&#8211;11&#8211;28T00:00\";\"2015&#8211;03&#8211;06T00:00\"\nDie Anführungszeichen sind unter Umständen nicht zwingend erforderlich. 5 ist dabei der Rang. Die zwei Zeitstempel sind das Erstelldatum und das Datum, an dem die Vokabel zuletzt den Rang gewechselt hat (Änderungsdatum).\nAus dem Änderungsdatum und dem Rang lässt sich der Zeitpunkt der nächsten Abfrage berechnen:\nRang 1: Änderungsdatum + 0 Tage\nRang 2: Änderungsdatum + 3 Tage\nRang 3: Änderungsdatum + 10 Tage\nRang 4: Änderungsdatum + 30 Tage\nRang 5: Änderungsdatum + 90 Tage\nRang 6: Änderungsdatum + 360 Tage</string>
+    <string name="faq_answer_11">Bei dem Erstellen einer CSV&#8211;Datei für den Import muss man sicherstellen, dass ein Semikolon als Trennzeichen gewählt wird. \nEs gibt insgesamt sechs Möglichkeiten, wie die Zeilen der CSV&#8211;Datei aussehen dürfen:\n\"Hund\";\"dog\"\n\"Hund\";\"dog\";\"5\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"5\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"2013&#8211;11&#8211;28T00:00\";\"2015&#8211;03&#8211;06T00:00\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"5\";\"2013&#8211;11&#8211;28T00:00\";\"2015&#8211;03&#8211;06T00:00\"\nDie Anführungszeichen sind unter Umständen nicht zwingend erforderlich. 5 ist dabei der Rang. Die zwei Zeitstempel sind das Erstelldatum und das Datum, an dem die Vokabel zuletzt den Rang gewechselt hat (Änderungsdatum).\nAus dem Änderungsdatum und dem Rang lässt sich der Zeitpunkt der nächsten Abfrage berechnen:\nRang 1: Änderungsdatum + 0 Tage\nRang 2: Änderungsdatum + 3 Tage\nRang 3: Änderungsdatum + 10 Tage\nRang 4: Änderungsdatum + 30 Tage\nRang 5: Änderungsdatum + 90 Tage\nRang 6: Änderungsdatum + 360 Tage</string>
     <string name="faq_question_12">Was bedeuten "nur aus der aktuellen Sammlung" und "Sprachauswahl berücksichtigen"?</string>
     <string name="faq_answer_12">"nur aus der aktuellen Sammlung" und "Sprachauswahl berücksichtigen" dienen dazu, nur bestimmte Vokabeln in der aktuellen Auswahl zu haben (Filter).\nHat man mehrere Sammlungen angelegt, wird nur die aktuelle Sammlung berücksichtigt, wenn man "nur aus der aktuellen Sammlung" angewählt hat.\nHat man Vokabeln unterschiedlicher Sprachen in der App, kann man die aktuelle Auswahl weiter über die Sprachauswahl filtern.</string>
 
