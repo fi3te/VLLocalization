@@ -98,7 +98,6 @@
     <string name="import_collection_caption">► Import collection</string>
     <string name="import_error">Import error!</string>
     <string name="import_xxxxxxxxx">Import</string>
-    <string name="important_note_character_encoding_must_be_set_to_utf8_in_all_manually_created_csv_files">Important note: Character encoding must be set to UTF-8 in all manually created CSV files!</string>
     <string name="important_note">Important note</string>
     <string name="imprint">Imprint</string>
     <string name="in_seconds">in sec.</string>
@@ -144,7 +143,7 @@
     <string name="no_access_to_location">No access to location</string>
     <string name="no_csv_files_available">No CSV files available.</string>
     <string name="no_information_provided">No information provided</string>
-    <string name="no_json_files_available">No JSON files available.</string>
+    <string name="no_csv_and_json_files_available">No CSV and JSON files available.</string>
     <string name="no_libraries_available">No libraries available</string>
     <string name="no_vocabulary">No vocabulary</string>
     <string name="no_zip_files_available">No ZIP files available.</string>
@@ -313,7 +312,7 @@
     <string name="faq_question_10">What do the numbers on the "Vocabulary" page mean?</string>
     <string name="faq_answer_10">The numbers on the left are showing the rank of the word. If a word rising up its rank the time till next query will increase. On the right site you can see the matching duration (days, hours, minutes).</string>
     <string name="faq_question_11">To be considered by importing a CSV-file</string>
-    <string name="faq_answer_11">If you create a CSV-file by yourself be aware you use UTF-8 encoding and the semicolon as separation sign. \nThere are six possibilities to arrange the rows of the CSV-file:\n\"Hund\";\"dog\"\n\"Hund\";\"dog\";\"5\"\n\"German\";\"Hund\";\"English\";\"dog\"\n\"German\";\"Hund\";\"English\";\"dog\";\"5\"\n\"German\";\"Hund\";\"English\";\"dog\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\n\"German\";\"Hund\";\"English\";\"dog\";\"5\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\nIn certain circumstances the quotation marks are not necessary. 5 is the rank. The two time stamps are the date of creation and the date of the last changing of the rank (changing-date).\nWith the changing-date and the current rank you can calculate the moment of the next query:\nRank 1: changing-date + 0 days\nRank 2: changing-date + 3 days\nRank 3: changing-date + 10 days\nRank 4: changing-date + 30 days\nRank 5: changing-date + 90 days\nRank 6: changing-date + 360 days</string>
+    <string name="faq_answer_11">If you create a CSV-file by yourself be aware you use the semicolon as separation sign. \nThere are six possibilities to arrange the rows of the CSV-file:\n\"Hund\";\"dog\"\n\"Hund\";\"dog\";\"5\"\n\"German\";\"Hund\";\"English\";\"dog\"\n\"German\";\"Hund\";\"English\";\"dog\";\"5\"\n\"German\";\"Hund\";\"English\";\"dog\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\n\"German\";\"Hund\";\"English\";\"dog\";\"5\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\nIn certain circumstances the quotation marks are not necessary. 5 is the rank. The two time stamps are the date of creation and the date of the last changing of the rank (changing-date).\nWith the changing-date and the current rank you can calculate the moment of the next query:\nRank 1: changing-date + 0 days\nRank 2: changing-date + 3 days\nRank 3: changing-date + 10 days\nRank 4: changing-date + 30 days\nRank 5: changing-date + 90 days\nRank 6: changing-date + 360 days</string>
     <string name="faq_question_12">What is the meaning of "only from current collection" and "consider language selection"?</string>
     <string name="faq_answer_12">"Only from current collection" and "consider language selection" are used to limit the words in the current selection (filter). \nIf you select "only from current collection" only the current collection will be taken into account even if you have more then one. Do you have words of different languages you can limit the words taken into account by selecting a language pair.</string>
 
