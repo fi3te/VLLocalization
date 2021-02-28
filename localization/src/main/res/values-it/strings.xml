@@ -254,7 +254,6 @@
     <string name="question_language">Lingua della domanda</string>
     <string name="flashcards">Scheda</string>
     <string name="important_note">Nota importante</string>
-    <string name="a_backup_was_created_it_must_be_imported_manually">È stato creato un backup, che ora dev’essere importato manualmente!</string>
     <string name="only_query_one_direction">Interroga solo in una direzione</string>
     <string name="night_s_rest">Riposo notturno</string>
     <string name="night_s_rest_summary">disattiva notifiche in questo periodo</string>
