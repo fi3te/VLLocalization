@@ -8,7 +8,6 @@
     <string name="activate_background_process">Activate background process</string>
     <string name="create_collection">Create collection</string>
     <string name="all">All</string>
-    <string name="all_csv_and_json_files_contained_in_this_folder_can_be_imported">All CSV and JSON files contained in this folder can be imported.</string>
     <string name="all_vocabulary">All vocabulary</string>
     <string name="all_vocabulary_without_archive">All vocabulary (without archive)</string>
     <string name="alteration_date">Alteration date</string>
@@ -23,7 +22,6 @@
     <string name="automatic_tab_switch_summary">will switch to the \'Flashcards\' page if vocabulary must be queried</string>
     <string name="background_process_caption">► Background process caption</string>
     <string name="background_process_summary">implies autostart and notifications \n\nThe background process checks whether vocabulary has to be queried.</string>
-    <string name="backup_location">Backup location ;-)</string>
     <string name="beginning_of_the_night_s_rest">Beginning of the night\'s rest</string>
     <string name="blue">Blue</string>
     <string name="bluetooth">Bluetooth</string>
@@ -65,7 +63,6 @@
     <string name="device_not_discoverable">Device not discoverable</string>
     <string name="did_you_know_the_answer_question_mark">Did you know the answer?</string>
     <string name="direction_of_learning">Direction of learning</string>
-    <string name="directory_dialog_information">It searches for JSON and CSV files in the specified directory as well as in the folders contained therein (further subfolders are not taken into account).</string>
     <string name="do_you_really_want_to_delete_the_collection_xxx_all_vocabulary_of_the_collection_will_be_deleted">Do you really want to delete the collection %s? \nAll vocabulary will be deleted!</string>
     <string name="do_you_really_want_to_delete_the_library_xxx">Do you really want to delete the library %s?</string>
     <string name="done">Done!</string>
@@ -94,13 +91,11 @@
     <string name="highscore">Highscore</string>
     <string name="identifier">Identifier</string>
     <string name="import_collection">Import collection</string>
-    <string name="import_collection_caption">► Import collection</string>
     <string name="import_error">Import error!</string>
     <string name="import_xxxxxxxxx">Import</string>
     <string name="important_note">Important note</string>
     <string name="imprint">Imprint</string>
     <string name="in_seconds">in sec.</string>
-    <string name="incorrect_input">Incorrect input!</string>
     <string name="incorrect_question_mark">incorrect?</string>
     <string name="information">Information</string>
     <string name="input">Input</string>
@@ -138,7 +133,6 @@
     <string name="night_s_rest_summary">disables the notifications in this period</string>
     <string name="no">No</string>
     <string name="no_access">No access!</string>
-    <string name="no_access_to_external_storage">No access to external storage</string>
     <string name="no_access_to_location">No access to location</string>
     <string name="no_csv_files_available">No CSV files available.</string>
     <string name="no_information_provided">No information provided</string>
@@ -155,7 +149,6 @@
     <string name="old_unable_to_create_the_backup">Unable to create the backup</string>
     <string name="only_from_current_collection">only from current collection</string>
     <string name="only_query_one_direction">only query one direction</string>
-    <string name="optional_import_directory">Optional import directory</string>
     <string name="optionally_enter_a_name">Optionally enter a name</string>
     <string name="orange">Orange</string>
     <string name="overview">Overview</string>
@@ -206,10 +199,8 @@
     <string name="sounds_and_vibration">Sounds and vibration</string>
     <string name="start">Start</string>
     <string name="still_waits_xxx_seconds_for_a_connection">Still waits %d seconds for a connection...</string>
-    <string name="template_download">Template: Download</string>
     <string name="test">Test</string>
     <string name="text">Text</string>
-    <string name="the_already_imported_collections_are_stored_here">The already imported collections are stored here ;-)</string>
     <string name="the_backup_could_not_be_created">The backup could not be created!</string>
     <string name="the_backup_could_not_be_created_no_permission">The backup could not be created! Grant permission and restart app!</string>
     <string name="the_backup_could_not_be_loaded">The backup could not be loaded!</string>
@@ -234,7 +225,6 @@
     <string name="the_collection_was_sent_successfully">The collection was sent successfully.</string>
     <string name="the_current_collection_was_not_deleted">The current collection was not deleted.</string>
     <string name="the_export_may_take_a_few_moments_depending_on_the_size_of_the_collection">The export may take a few moments depending on the size of the collection.</string>
-    <string name="the_exported_collections_are_stored_here">The exported collections are stored here ;-)</string>
     <string name="the_import_may_take_a_few_moments_depending_on_the_size_of_the_collection">The import may take a few moments depending on the size of the collection.</string>
     <string name="the_library_was_created_successfully">The library was created successfully!</string>
     <string name="the_library_was_deleted_successfully">The library was deleted successfully!</string>

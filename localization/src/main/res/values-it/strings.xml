@@ -91,10 +91,6 @@
     <string name="all_vocabulary_without_archive">Tutti i vocaboli (senza archivio)</string>
     <string name="vocabulary_of_the_language">Vocaboli della lingua</string>
     <string name="count">Numero</string>
-    <string name="backup_location">Qui vanno a finire i backup ;-)</string>
-    <string name="the_exported_collections_are_stored_here">Le raccolte esportate vengono salvate qui ;-)</string>
-    <string name="the_already_imported_collections_are_stored_here">Le raccolte già importate vengono salvate qui ;-)</string>
-    <string name="all_csv_and_json_files_contained_in_this_folder_can_be_imported">È stato possibile importare tutti i file CSV e JSON contenuti in questa cartella.</string>
     <string name="the_collection_was_not_created">La raccolta non è stata creata.</string>
     <string name="the_collection_was_renamed_successfully">La raccolta è stata rinominata correttamente!</string>
     <string name="the_collection_was_not_renamed">La raccolta non è stata rinominata.</string>
@@ -142,11 +138,7 @@
     <string name="favorites">Preferiti</string>
     <string name="automatic_tab_switch">Cambia automaticamente scheda</string>
     <string name="automatic_tab_switch_summary">Al primo avvio dell’app passa alla pagina \'Scheda\' quando ci sono dei vocaboli sui quali bisogna essere interrogati</string>
-    <string name="import_collection_caption">► Importa raccolta</string>
-    <string name="optional_import_directory">Elenco opzionale delle importazioni</string>
     <string name="deactivate">Disattiva</string>
-    <string name="incorrect_input">Inserimento sbagliato!</string>
-    <string name="template_download">Template: download</string>
     <string name="remove_whitespaces">Inserimento: rimuovi gli spazi</string>
     <string name="miscellaneous">Varie</string>
     <string name="search_for_devices">Ricerca apparecchi...</string>
@@ -186,7 +178,6 @@
     <string name="in_seconds">in secondi</string>
     <string name="time_match_is_running">Il gioco a tempo è in corso</string>
     <string name="remove_whitespaces_information">All’inserimento vengono eliminati gli spazi superflui prima della parola iniziale del vocabolo e dopo l’ultima parola; vengono eliminati anche spazi doppi tra singole parole.</string>
-    <string name="directory_dialog_information">La ricerca di file JSON e CSV viene effettuata sia nella directory data, sia nelle cartelle contenute in essa (altre sottocartelle non vengono prese in considerazione).</string>
     <string name="contact">E-mail: fiete.wennier@gmail.com \Tel.: su richiesta</string>
     <string name="updates">Grazie per il download!</string>
     <string name="eula">Nessuno</string>
@@ -224,7 +215,6 @@
     <string name="export">esporta</string>
     <string name="not_archived_vocabulary">Vocaboli non archiviati</string>
     <string name="filtered_vocabulary">Vocaboli filtrati</string>
-    <string name="no_access_to_external_storage">Nessun accesso al sistema dei dati (esterno?)</string>
     <string name="no_access_to_location">Nessun accesso alla localizzazione.</string>
     <string name="access_granted_please_repeat_action">Accesso consentito, p.f. ripetere l’azione</string>
     <string name="questions">Domande</string>

@@ -91,10 +91,6 @@
     <string name="all_vocabulary_without_archive">Alle Vokabeln (ohne Archiv)</string>
     <string name="vocabulary_of_the_language">Vokabeln der Sprache</string>
     <string name="count">Anzahl</string>
-    <string name="backup_location">Hier landen die Backups ;-)</string>
-    <string name="the_exported_collections_are_stored_here">Die exportierten Sammlungen werden hier gespeichert ;-)</string>
-    <string name="the_already_imported_collections_are_stored_here">Die schon importierten Sammlungen werden hier gespeichert ;-)</string>
-    <string name="all_csv_and_json_files_contained_in_this_folder_can_be_imported">Alle in diesem Ordner enthaltenen CSV- und JSON-Dateien können importiert werden.</string>
     <string name="the_collection_was_not_created">Es wurde keine neue Sammlung erstellt.</string>
     <string name="the_collection_was_renamed_successfully">Die Sammlung wurde erfolgreich umbenannt!</string>
     <string name="the_collection_was_not_renamed">Die Sammlung wurde nicht umbenannt.</string>
@@ -142,11 +138,7 @@
     <string name="favorites">Favoriten</string>
     <string name="automatic_tab_switch">Automatischer Tabwechsel</string>
     <string name="automatic_tab_switch_summary">wechselt beim ersten Start der App zur Seite \'Lernkartei\', wenn Vokabeln abgefragt werden müssen</string>
-    <string name="import_collection_caption">► Sammlung importieren</string>
-    <string name="optional_import_directory">Optionales Importverzeichnis</string>
     <string name="deactivate">Deaktivieren</string>
-    <string name="incorrect_input">Falsche Eingabe!</string>
-    <string name="template_download">Vorlage: Download</string>
     <string name="remove_whitespaces">Eingabe: Leerzeichen entfernen</string>
     <string name="miscellaneous">Verschiedenes</string>
     <string name="search_for_devices">Nach Geräten suchen...</string>
@@ -186,7 +178,6 @@
     <string name="in_seconds">in Sek.</string>
     <string name="time_match_is_running">Zeitspiel läuft gerade</string>
     <string name="remove_whitespaces_information">entfernt bei der Eingabe unnötige Leerzeichen vor dem ersten und nach dem letzten Wort der Vokabel (auch doppelte Leerzeichen zwischen einzelnen Wörtern werden entfernt)</string>
-    <string name="directory_dialog_information">Es wird sowohl in dem angegebenen Verzeichnis als auch in den darin enthaltenen Ordnern nach JSON- und CSV-Dateien gesucht (weitere Unterordner werden nicht berücksichtigt).</string>
     <string name="contact">E-Mail: fiete.wennier@gmail.com \nTel.: auf Anfrage</string>
     <string name="updates">Danke für den Download!</string>
     <string name="eula">Keine</string>
@@ -224,7 +215,6 @@
     <string name="export">Exportieren</string>
     <string name="not_archived_vocabulary">Nicht archivierte Vokabeln</string>
     <string name="filtered_vocabulary">Gefilterte Vokabeln</string>
-    <string name="no_access_to_external_storage">Kein Zugriff auf das Dateisystem</string>
     <string name="no_access_to_location">Kein Standortzugriff</string>
     <string name="access_granted_please_repeat_action">Zugriff gewährt, bitte Aktion wiederholen</string>
     <string name="questions">Fragen</string>
