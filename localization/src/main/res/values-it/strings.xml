@@ -43,6 +43,7 @@
     <string name="developer_options">Opzioni avanzate</string>
     <string name="save_additional_information">Salva informazioni supplementari\n(Un esempio di informazione supplementare è il progresso nell’apprendimento)</string>
     <string name="create_backup">Crea file backup</string>
+    <string name="create_backup_info">Un backup contiene tutte le collezioni e i loro vocabolari associati.</string>
     <string name="load_backup">Apri Backup</string>
     <string name="about">Informazioni sull\'app</string>
     <string name="ascending">crescente</string>
@@ -68,7 +69,6 @@
     <string name="minutes">Minuti</string>
     <string name="warning_all_data_will_be_deleted_before_loading">Attenzione: Prima del caricamento tutti i dati saranno cancellati!</string>
     <string name="the_collection_was_changed">La raccolta è stata cambiata!</string>
-    <string name="choose_a_file">Scegli un file</string>
     <string name="no_csv_files_available">Nessun dato CSV disponibile.</string>
     <string name="no_access">Impossibile accedere!</string>
     <string name="import_error">Errore nell\'importazione!</string>
@@ -247,7 +247,6 @@
     <string name="choose_view">Seleziona vista</string>
     <string name="choose_learn_mode">Seleziona la modalità di apprendimento</string>
     <string name="default_view">Vista standard</string>
-    <string name="no_csv_and_json_files_available">Nessun file CSV e JSON disponibile.</string>
     <string name="words_are_loading_...">Carico vocaboli...</string>
     <string name="unit_is_loading_...">Carico raccolta...</string>
     <string name="mistakes">Errori</string>

@@ -30,7 +30,6 @@
     <string name="bluetooth_is_not_enabled">Bluetooth is not enabled</string>
     <string name="browseArchiveForVocabularyWhichMustBeQueried">Browse archive for vocabulary which must be queried</string>
     <string name="check">Check</string>
-    <string name="choose_a_file">Choose a file</string>
     <string name="vocabulary">Vocabulary</string>
     <string name="choose_learn_mode">Choose learn mode</string>
     <string name="choose_view">Choose view</string>
@@ -43,6 +42,7 @@
     <string name="contact">E-Mail: fiete.wennier@gmail.com \nTel.: on request</string>
     <string name="correct_question_mark">correct?</string>
     <string name="create_backup">Create backup</string>
+    <string name="create_backup_info">A backup contains all collections and the associated vocabulary.</string>
     <string name="create_library">Create library</string>
     <string name="creating_backup">Creating backup</string>
     <string name="current_collection">current collection</string>
@@ -142,7 +142,6 @@
     <string name="no_access_to_location">No access to location</string>
     <string name="no_csv_files_available">No CSV files available.</string>
     <string name="no_information_provided">No information provided</string>
-    <string name="no_csv_and_json_files_available">No CSV and JSON files available.</string>
     <string name="no_libraries_available">No libraries available</string>
     <string name="no_vocabulary">No vocabulary</string>
     <string name="no_zip_files_available">No ZIP files available.</string>

@@ -43,6 +43,7 @@
     <string name="developer_options">developer options</string>
     <string name="save_additional_information">Zusatzinformationen speichern \n(Zu den Zusatzinformationen gehört z.B. der Lernfortschritt)</string>
     <string name="create_backup">Backup erstellen</string>
+    <string name="create_backup_info">Ein Backup enthält alle Sammlungen und die dazugehörigen Vokabeln.</string>
     <string name="load_backup">Backup laden</string>
     <string name="about">Über</string>
     <string name="ascending">aufsteigend</string>
@@ -68,7 +69,6 @@
     <string name="minutes">Minuten</string>
     <string name="warning_all_data_will_be_deleted_before_loading">Warnung: Alle Daten werden vor dem Laden gelöscht!</string>
     <string name="the_collection_was_changed">Die Sammlung wurde gewechselt!</string>
-    <string name="choose_a_file">Wähle eine Datei</string>
     <string name="no_csv_files_available">Keine CSV-Dateien vorhanden.</string>
     <string name="no_access">Kein Zugriff!</string>
     <string name="import_error">Fehler beim Import!</string>
@@ -247,7 +247,6 @@
     <string name="choose_view">Ansicht auswählen</string>
     <string name="choose_learn_mode">Lern-Modus auswählen</string>
     <string name="default_view">Standardansicht</string>
-    <string name="no_csv_and_json_files_available">Keine CSV- und JSON-Dateien vorhanden.</string>
     <string name="words_are_loading_...">Vokabeln werden geladen...</string>
     <string name="unit_is_loading_...">Sammlung wird geladen...</string>
     <string name="mistakes">Fehler</string>
