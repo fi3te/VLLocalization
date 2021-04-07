@@ -213,6 +213,7 @@
     <string name="rename">Umbenennen</string>
     <string name="remove">Entfernen</string>
     <string name="export">Exportieren</string>
+    <string name="share">Teilen</string>
     <string name="not_archived_vocabulary">Nicht archivierte Vokabeln</string>
     <string name="filtered_vocabulary">Gefilterte Vokabeln</string>
     <string name="no_access_to_location">Kein Standortzugriff</string>

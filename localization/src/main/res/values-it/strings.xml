@@ -209,10 +209,11 @@
     <string name="the_library_was_not_renamed"> La libreria non è stata rinominata.</string>
     <string name="do_you_really_want_to_delete_the_library_xxx">Confermi di voler eliminare la libreria %s?</string>
     <string name="do_you_really_want_to_delete_the_collection_xxx_all_vocabulary_of_the_collection_will_be_deleted">Confermi di voler eliminare la raccolta %s? \nAttenzione: Se confermi, tutti i vocaboli della raccolta verranno eliminati!</string>
-    <string name="modify">modifica</string>
-    <string name="rename">rinomina</string>
-    <string name="remove">elimina</string>
-    <string name="export">esporta</string>
+    <string name="modify">Modifica</string>
+    <string name="rename">Rinomina</string>
+    <string name="remove">Elimina</string>
+    <string name="export">Esporta</string>
+    <string name="share">Condividi</string>
     <string name="not_archived_vocabulary">Vocaboli non archiviati</string>
     <string name="filtered_vocabulary">Vocaboli filtrati</string>
     <string name="no_access_to_location">Nessun accesso alla localizzazione.</string>
