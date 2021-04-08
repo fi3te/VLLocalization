@@ -4,16 +4,12 @@
     <string name="wildcard" translatable="false"></string>
     <string name="a_query_is_not_necessary">A query is not necessary!</string>
     <string name="about">About</string>
-    <string name="access_granted_please_repeat_action">Access granted, please repeat action</string>
     <string name="activate_background_process">Activate background process</string>
     <string name="create_collection">Create collection</string>
     <string name="all">All</string>
     <string name="all_vocabulary">All vocabulary</string>
     <string name="all_vocabulary_without_archive">All vocabulary (without archive)</string>
     <string name="alteration_date">Alteration date</string>
-    <string name="an_error_has_occurred_while_connecting">An error has occurred while connecting.</string>
-    <string name="an_error_has_occurred_while_receiving">An error has occurred while receiving.</string>
-    <string name="an_error_has_occurred_while_sending">An error has occurred while sending.</string>
     <string name="answer">Answer</string>
     <string name="archive">Archive</string>
     <string name="archived">Archived</string>
@@ -24,8 +20,6 @@
     <string name="background_process_summary">implies autostart and notifications \n\nThe background process checks whether vocabulary has to be queried.</string>
     <string name="beginning_of_the_night_s_rest">Beginning of the night\'s rest</string>
     <string name="blue">Blue</string>
-    <string name="bluetooth">Bluetooth</string>
-    <string name="bluetooth_is_not_enabled">Bluetooth is not enabled</string>
     <string name="browseArchiveForVocabularyWhichMustBeQueried">Browse archive for vocabulary which must be queried</string>
     <string name="check">Check</string>
     <string name="vocabulary">Vocabulary</string>
@@ -35,7 +29,6 @@
     <string name="close">Close</string>
     <string name="collection">Collection</string>
     <string name="collections">Collections</string>
-    <string name="connected_to">Connected to</string>
     <string name="consider_language_selection">consider language selection</string>
     <string name="contact">E-Mail: fiete.wennier@gmail.com \nTel.: on request</string>
     <string name="correct_question_mark">correct?</string>
@@ -60,7 +53,6 @@
     <string name="descending">Descending</string>
     <string name="developer">Developer</string>
     <string name="developer_options">Developer options</string>
-    <string name="device_not_discoverable">Device not discoverable</string>
     <string name="did_you_know_the_answer_question_mark">Did you know the answer?</string>
     <string name="direction_of_learning">Direction of learning</string>
     <string name="do_you_really_want_to_delete_the_collection_xxx_all_vocabulary_of_the_collection_will_be_deleted">Do you really want to delete the collection %s? \nAll vocabulary will be deleted!</string>
@@ -71,7 +63,6 @@
     <string name="edit_library">Edit library</string>
     <string name="edit_word">Edit word</string>
     <string name="editor">Editor</string>
-    <string name="enable_visibility">Enable visibility</string>
     <string name="ending_of_the_night_s_rest">Ending of the night\'s rest</string>
     <string name="errors_have_occurred">Errors have occurred</string>
     <string name="eula">None</string>
@@ -114,7 +105,6 @@
     <string name="library">Library</string>
     <string name="load_backup">Load backup</string>
     <string name="loading_backup">Loading backup</string>
-    <string name="location_enabled_information">Location activated (search for Bluetooth devices) \n(necessary for sending)</string>
     <string name="magenta">magenta</string>
     <string name="main_view_caption">► Main view</string>
     <string name="manage_collections">Manage collections</string>
@@ -133,7 +123,6 @@
     <string name="night_s_rest_summary">disables the notifications in this period</string>
     <string name="no">No</string>
     <string name="no_access">No access!</string>
-    <string name="no_access_to_location">No access to location</string>
     <string name="no_csv_files_available">No CSV files available.</string>
     <string name="no_information_provided">No information provided</string>
     <string name="no_libraries_available">No libraries available</string>
@@ -172,7 +161,6 @@
     <string name="rank_mode">Rank mode</string>
     <string name="reading_view">Reading view</string>
     <string name="reading_view_caption">► Reading view</string>
-    <string name="receive_collection">Receive collection</string>
     <string name="recommended_value">recommended value</string>
     <string name="red">Red</string>
     <string name="remove">Remove</string>
@@ -186,20 +174,14 @@
     <string name="save_error">Save error!</string>
     <string name="score">Score</string>
     <string name="search">Search</string>
-    <string name="search_for_devices">Search for devices...</string>
-    <string name="searching_for_devices">Searching for devices...</string>
     <string name="select_collection">Select collection</string>
-    <string name="send_a_collection">Send a collection</string>
-    <string name="sending_not_possible">Sending not possible</string>
     <string name="settings">Settings</string>
     <string name="share">Share</string>
     <string name="show_rank_rank">Show rank</string>
-    <string name="show_settings">Show settings</string>
     <string name="software_licenses">Software licenses</string>
     <string name="sort">Sort</string>
     <string name="sounds_and_vibration">Sounds and vibration</string>
     <string name="start">Start</string>
-    <string name="still_waits_xxx_seconds_for_a_connection">Still waits %d seconds for a connection...</string>
     <string name="test">Test</string>
     <string name="text">Text</string>
     <string name="the_backup_could_not_be_created">The backup could not be created!</string>
@@ -209,7 +191,6 @@
     <string name="the_backup_was_loaded_successfully">The backup was loaded successfully!</string>
     <string name="the_changes_could_not_be_saved">The changes could not be saved!</string>
     <string name="the_changes_have_been_saved">The changes have been saved!</string>
-    <string name="the_collection_is_sent">The collection is sent...</string>
     <string name="the_collection_was_changed">The collection was changed!</string>
     <string name="the_collection_was_created_successfully">The collection was created successfully!</string>
     <string name="the_collection_was_deleted_successfully_._it_contained_one_word">The collection was deleted successfully. It contained 1 word.</string>
@@ -221,9 +202,7 @@
     <string name="the_collection_was_not_exported">The collection was not exported.</string>
     <string name="the_collection_was_not_imported">The collection was not imported.</string>
     <string name="the_collection_was_not_renamed">The collection was not renamed.</string>
-    <string name="the_collection_was_received_successfully">The collection was received successfully.</string>
     <string name="the_collection_was_renamed_successfully">The collection was renamed successfully.</string>
-    <string name="the_collection_was_sent_successfully">The collection was sent successfully.</string>
     <string name="the_current_collection_was_not_deleted">The current collection was not deleted.</string>
     <string name="the_export_may_take_a_few_moments_depending_on_the_size_of_the_collection">The export may take a few moments depending on the size of the collection.</string>
     <string name="the_import_may_take_a_few_moments_depending_on_the_size_of_the_collection">The import may take a few moments depending on the size of the collection.</string>
@@ -235,7 +214,6 @@
     <string name="the_library_was_not_renamed">The library was not renamed.</string>
     <string name="the_library_was_renamed_successfully">The library was renamed successfully!</string>
     <string name="the_removal_of_the_collection_may_take_a_few_moments_depending_on_the_size_of_the_collection">The removal of the collection may take a few moments depending on the size of the collection.</string>
-    <string name="there_was_no_connection_established">There was no connection established.</string>
     <string name="this_action_can_not_be_undone">This action can\'t be undone!</string>
     <string name="this_process_may_take_a_few_moments_depending_on_the_size_of_the_collections">This process may take a few moments depending on the size of the collections!</string>
     <string name="time_deduction">Time deduction</string>
@@ -244,7 +222,6 @@
     <string name="time_match_caption">► Time match</string>
     <string name="time_match_is_running">Time match is running</string>
     <string name="time_surcharge">Time surcharge</string>
-    <string name="transmitter_and_receiver_need_the_same_version_of_the_app">Transmitter an receiver need the same version of the app!</string>
     <string name="update_widgets">Update widgets</string>
     <string name="updates">Thx!</string>
     <string name="version">Version</string>
@@ -262,8 +239,6 @@
     <string name="yellow">Yellow</string>
     <string name="yes">Yes</string>
     <string name="your_answer">Your answer</string>
-    <string name="bluetooth_enabled_information">Bluetooth enabled \n(necessarry for sending and receiving)</string>
-    <string name="bluetooth_visibility_information">Visible to all bluetooth devices nearby \n(necessary for receiving)</string>
     <string name="remove_whitespaces_information">removes unnecessary whitespaces before the first and after the last word of the vocabulary (even double spaces between individual words are removed)</string>
     <string name="save_additional_information">Save additional information \n(Additional information includes, for example, the learning progress)</string>
     <string name="vocabulary_must_be_load_from_archive_latency">Vocabulary must be load from archive (latency)!</string>
