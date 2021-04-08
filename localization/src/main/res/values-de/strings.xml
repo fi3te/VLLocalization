@@ -262,29 +262,25 @@
 
     <!-- FAQ -->
     <string name="faq_question_01">Kurz erklärt: Sammlung importieren</string>
-    <string name="faq_answer_01">Vokabeln können aus einer JSON- oder CSV-Datei importiert werden. Die zu importierende Sammlung muss sich, wenn in den Einstellungen kein zusätzliches Importverzeichnis angegeben ist, im Ordner "Import" befinden. \nWeitere Informationen: Was muss beim Importieren einer CSV-Datei beachtet werden?</string>
+    <string name="faq_answer_01">Vokabeln können aus einer JSON- oder CSV-Datei importiert werden. \nWeitere Informationen: Was muss beim Importieren einer CSV-Datei beachtet werden?</string>
     <string name="faq_question_02">Kurz erklärt: Sammlung exportieren</string>
     <string name="faq_answer_02">Exportierte Sammlungen können mit Freunden geteilt werden oder auf eigenen anderen Geräten importiert werden. Dadurch müssen Vokabeln nicht mehrmals eingegeben werden. Diese Funktion dient auch als Backup einer einzelnen Sammlung.</string>
     <string name="faq_question_03">Kurz erklärt: Backup</string>
-    <string name="faq_answer_03">In Backups werden alle Vokabeln bzw. Sammlungen und der zugehörige Lernfortschritt gespeichert, Programmeinstellungen werden nicht abgespeichert. Backups werden im Ordner "Backup" gespeichert und können von dort auch wieder geladen werden. \n\nWarnung: Vor dem Laden eines Backups werden alle Vokabeln bzw. Sammlungen gelöscht.</string>
+    <string name="faq_answer_03">In Backups werden alle Vokabeln bzw. Sammlungen und der zugehörige Lernfortschritt gespeichert, Programmeinstellungen werden nicht abgespeichert. \n\nWarnung: Vor dem Laden eines Backups werden alle Vokabeln bzw. Sammlungen gelöscht.</string>
     <string name="faq_question_04">Kurz erklärt: Archiv</string>
-    <string name="faq_answer_04">Archivierte Sammlungen werden nicht mehr vom "Rangmodus" bzw. von der "Lernkartei" berücksichtigt. Bei Bedarf können diese wieder dearchiviert werden.</string>
+    <string name="faq_answer_04">Archivierte Sammlungen werden nicht mehr vom \"Rangmodus\" bzw. von der \"Lernkartei\" berücksichtigt. Bei Bedarf können diese wieder dearchiviert werden.</string>
     <string name="faq_question_05">Es ist lästig, bei der Abfrage jede Antwort einzugeben. Wie kann ich diesen Vorgang beschleunigen?</string>
     <string name="faq_answer_05">Bei der Abfrage ist es nicht nötig, die Antwort einzugeben, man kann das Antwortfeld auch leer lassen.</string>
     <string name="faq_question_06">Wie funktioniert die Leseansicht?</string>
     <string name="faq_answer_06">Wischgesten nach oben, unten, links und rechts steuern die Leseansicht.</string>
-    <string name="faq_question_07">Wie greife ich mit dem Computer auf meine Exporte/Backups zu?</string>
-    <string name="faq_answer_07">Im Standardverzeichnis befindet sich ein Ordner "VL". In diesem Ordner befinden sich drei weitere Ordner, deren Funktionen durch die "info.txt"-Dateien beschrieben werden.</string>
-    <string name="faq_question_08">Warum werden bei mir am Computer nicht alle Dateien der Unterordner des Ordners "VL" angezeigt?</string>
-    <string name="faq_answer_08">Ein Neustart des Geräts behebt dieses Problem.</string>
     <string name="faq_question_09">Wo werden die Vokabeln abgespeichert?</string>
     <string name="faq_answer_09">Sammlungen und Vokabeln werden in einer SQLite-Datenbank abgespeichert. Möchte man mit dem Computer oder einem Datei-Manager auf die Sammlungen zugreifen, muss man zuvor einen Export durchführen oder ein Backup erstellen.</string>
-    <string name="faq_question_10">Was bedeuten die Zahlen auf der Seite "Vokabeln"?</string>
+    <string name="faq_question_10">Was bedeuten die Zahlen auf der Seite \"Vokabeln\"?</string>
     <string name="faq_answer_10">Die Zahlen am linken Rand geben den Rang der Vokabel an. Wenn eine Vokabel im Rang aufsteigt, vergrößert sich auch die Dauer bis zur nächsten Abfrage im Rangmodus. Am rechten Rand ist die entsprechende Dauer angegeben (Tage, Stunden, Minuten).</string>
     <string name="faq_question_11">Was muss beim Importieren einer CSV-Datei beachtet werden?</string>
     <string name="faq_answer_11">Bei dem Erstellen einer CSV&#8211;Datei für den Import muss man sicherstellen, dass ein Semikolon als Trennzeichen gewählt wird. \nEs gibt insgesamt sechs Möglichkeiten, wie die Zeilen der CSV&#8211;Datei aussehen dürfen:\n\"Hund\";\"dog\"\n\"Hund\";\"dog\";\"5\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"5\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"2013&#8211;11&#8211;28T00:00\";\"2015&#8211;03&#8211;06T00:00\"\n\"Deutsch\";\"Hund\";\"Englisch\";\"dog\";\"5\";\"2013&#8211;11&#8211;28T00:00\";\"2015&#8211;03&#8211;06T00:00\"\nDie Anführungszeichen sind unter Umständen nicht zwingend erforderlich. 5 ist dabei der Rang. Die zwei Zeitstempel sind das Erstelldatum und das Datum, an dem die Vokabel zuletzt den Rang gewechselt hat (Änderungsdatum).\nAus dem Änderungsdatum und dem Rang lässt sich der Zeitpunkt der nächsten Abfrage berechnen:\nRang 1: Änderungsdatum + 0 Tage\nRang 2: Änderungsdatum + 3 Tage\nRang 3: Änderungsdatum + 10 Tage\nRang 4: Änderungsdatum + 30 Tage\nRang 5: Änderungsdatum + 90 Tage\nRang 6: Änderungsdatum + 360 Tage</string>
-    <string name="faq_question_12">Was bedeuten "nur aus der aktuellen Sammlung" und "Sprachauswahl berücksichtigen"?</string>
-    <string name="faq_answer_12">"nur aus der aktuellen Sammlung" und "Sprachauswahl berücksichtigen" dienen dazu, nur bestimmte Vokabeln in der aktuellen Auswahl zu haben (Filter).\nHat man mehrere Sammlungen angelegt, wird nur die aktuelle Sammlung berücksichtigt, wenn man "nur aus der aktuellen Sammlung" angewählt hat.\nHat man Vokabeln unterschiedlicher Sprachen in der App, kann man die aktuelle Auswahl weiter über die Sprachauswahl filtern.</string>
+    <string name="faq_question_12">Was bedeuten \"nur aus der aktuellen Sammlung\" und \"Sprachauswahl berücksichtigen\"?</string>
+    <string name="faq_answer_12">\"nur aus der aktuellen Sammlung\" und \"Sprachauswahl berücksichtigen\" dienen dazu, nur bestimmte Vokabeln in der aktuellen Auswahl zu haben (Filter).\nHat man mehrere Sammlungen angelegt, wird nur die aktuelle Sammlung berücksichtigt, wenn man \"nur aus der aktuellen Sammlung\" angewählt hat.\nHat man Vokabeln unterschiedlicher Sprachen in der App, kann man die aktuelle Auswahl weiter über die Sprachauswahl filtern.</string>
 
 
     <plurals name="delete_words">

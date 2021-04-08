@@ -262,29 +262,25 @@
 
     <!-- FAQ -->
     <string name="faq_question_01">In breve: importare raccolta</string>
-    <string name="faq_answer_01">I vocaboli devono essere importati a partire da un file JSON o CSV. La raccolta da importare deve trovarsi nella cartella "Import", se nelle impostazioni non è indicata una directory supplementare per le importazioni. \n Informazioni supplementari: A che cosa occorre fare attenzione durante l’importazione di un file CSV?</string>
+    <string name="faq_answer_01">I vocaboli devono essere importati a partire da un file JSON o CSV. \n Informazioni supplementari: A che cosa occorre fare attenzione durante l’importazione di un file CSV?</string>
     <string name="faq_question_02">In breve: esportare raccolta</string>
     <string name="faq_answer_02">Le raccolte esportate possono essere condivise con amici o importate su altri apparecchi propri. In questo modo i vocaboli non devono essere inseriti più volte nel programma. Questa funzione serve anche come backup di una singola raccolta.</string>
     <string name="faq_question_03">In breve: il backup</string>
-    <string name="faq_answer_03">Nei backup vengono salvati tutti i vocaboli e le raccolte con il relativo progresso nell’apprendimento. Le impostazioni del programma non vengono salvate. I backup vengono salvati nella cartella "Backup", dalla quale possono essere di nuovo caricati. \n\nAttenzione: prima di caricare un backup vengono cancellati tutti i vocaboli e le collezioni.</string>
+    <string name="faq_answer_03">Nei backup vengono salvati tutti i vocaboli e le raccolte con il relativo progresso nell’apprendimento. Le impostazioni del programma non vengono salvate. \n\nAttenzione: prima di caricare un backup vengono cancellati tutti i vocaboli e le collezioni.</string>
     <string name="faq_question_04">In breve: l\'archivio</string>
-    <string name="faq_answer_04">Le raccolte archiviate non vengono più prese in considerazione dalle modalità "secondo il rango" o "scheda". Se necessario, possono essere nuovamente estratte dall’archivio.</string>
+    <string name="faq_answer_04">Le raccolte archiviate non vengono più prese in considerazione dalle modalità \"secondo il rango\" o \"scheda\". Se necessario, possono essere nuovamente estratte dall’archivio.</string>
     <string name="faq_question_05">È fastidioso inserire ogni singola risposta durante l’interrogazione. Come posso accelerare questo processo?</string>
     <string name="faq_answer_05">Durante l’interrogazione non è necessario inserire la risposta; il campo per la risposta può anche essere lasciato vuoto.</string>
     <string name="faq_question_06">Come funziona la modalità di lettura?</string>
     <string name="faq_answer_06">Per gestire la modalità di lettura si scorre con il dito verso l’alto, verso il basso, verso sinistra e verso destra.</string>
-    <string name="faq_question_07">Come posso accedere alle mie esportazioni e ai miei backup sul computer?</string>
-    <string name="faq_answer_07">Nella directory standard si trova una cartella "VL". In questa cartella si trovano altre tre cartelle, le cui funzioni sono descritte dai rispettivi file "info.txt".</string>
-    <string name="faq_question_08">Perché sul mio computer non vengono mostrati tutti i file delle sottocartelle della cartella "VL"?</string>
-    <string name="faq_answer_08">Un riavvio dell\'apparecchio risolve questo problema.</string>
     <string name="faq_question_09">Dove vengono salvati i vocaboli?</string>
     <string name="faq_answer_09">Le raccolte e i vocaboli vengono salvati in una banca dati SQLite. Per accedere alle raccolte tramite il computer o un data manager occorre dapprima creare un backup o effettuare un’esportazione.</string>
-    <string name="faq_question_10">Che significato hanno le cifre sulla pagina "Vocaboli"?</string>
-    <string name="faq_answer_10">Le cifre sul lato sinistro indicano il rango del vocabolo. Quando un vocabolo sale di rango, aumenta anche l’intervallo di tempo fino alla prossima interrogazione (nella modalità "secondo il rango"). Sul lato destro è indicata tale durata (in giorni, ore, minuti).</string>
-    <string name="faq_question_11"> A che cosa occorre fare attenzione durante l’importazione di un file CSV?</string>
+    <string name="faq_question_10">Che significato hanno le cifre sulla pagina \"Vocaboli\"?</string>
+    <string name="faq_answer_10">Le cifre sul lato sinistro indicano il rango del vocabolo. Quando un vocabolo sale di rango, aumenta anche l’intervallo di tempo fino alla prossima interrogazione (nella modalità \"secondo il rango\"). Sul lato destro è indicata tale durata (in giorni, ore, minuti).</string>
+    <string name="faq_question_11">A che cosa occorre fare attenzione durante l’importazione di un file CSV?</string>
     <string name="faq_answer_11">Quando si crea un file CSV per l’importazione bisogna assicurarsi di utilizzare il punto e virgola come separatore. \nCi sono in tutto sei possibilità su come possono apparire le righe del file CSV:\n\"cane\";\"dog\"\n\"cane\";\"dog\";\"5\"\n\"italiano\";\"cane\";\"inglese\";\"dog\"\n\"italiano\";\"cane\";\"inglese\";\"dog\";\"5\"\n\"italiano\";\"cane\";\"inglese\";\"dog\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\n\"italiano\";\"cane\";\"inglese\";\"dog\";\"5\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\nLe virgolette possono non essere strettamente necessarie. Qui 5 indica il rango. Le due indicazioni di tempo sono la data di creazione e la data in cui il vocabolo ha cambiato rango l’ultima volta (data di cambiamento).\nLa data della prossima interrogazione può essere calcolata a partire dalla data di cambiamento e dal rango:\nRango 1: data di cambiamento + 0 giorni\nRango 2: data di cambiamento + 3 giorni\nRango 3: data di cambiamento + 10 giorni\nRango 4: data di cambiamento + 30 giorni\nRango 5: data di cambiamento + 90 giorni\nRango 6: data di cambiamento + 360 giorni</string>
-    <string name="faq_question_12">Che cosa significa "Solo dalla raccolta attuale" e "Considera la lingua selezionata"?</string>
-    <string name="faq_answer_12">Le opzioni "Solo dalla raccolta attuale" e "Considera la lingua selezionata" servono ad avere solo determinati vocaboli nella selezione attuale (filtro).\nSe sono state create più raccolte, quando si seleziona "Solo dalla raccolta attuale" viene presa in considerazione solo la raccolta corrente.\nSe nell’app ci sono vocaboli in diverse lingue, si può filtrare ulteriormente la selezione corrente selezionando la lingua.</string>
+    <string name="faq_question_12">Che cosa significa \"Solo dalla raccolta attuale\" e \"Considera la lingua selezionata\"?</string>
+    <string name="faq_answer_12">Le opzioni \"Solo dalla raccolta attuale\" e \"Considera la lingua selezionata\" servono ad avere solo determinati vocaboli nella selezione attuale (filtro).\nSe sono state create più raccolte, quando si seleziona \"Solo dalla raccolta attuale\" viene presa in considerazione solo la raccolta corrente.\nSe nell’app ci sono vocaboli in diverse lingue, si può filtrare ulteriormente la selezione corrente selezionando la lingua.</string>
 
 
     <plurals name="delete_words">

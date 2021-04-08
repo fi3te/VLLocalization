@@ -256,29 +256,25 @@
 
     <!-- FAQ -->
     <string name="faq_question_01">In a nutshell: Import a collection</string>
-    <string name="faq_answer_01">You can import words from a JSON- or CSV-file. Usually the file must be in the "Import" folder. In the settings you can also define an additional import-folder. \nFurther informations: "To be considered by importing a CSV-file"</string>
+    <string name="faq_answer_01">You can import words from a JSON- or CSV-file. \nFurther informations: \"To be considered by importing a CSV-file\"</string>
     <string name="faq_question_02">In a nutshell: Export a collection</string>
-    <string name="faq_answer_02">You have to export a collection if you would like to share it with friends or import it to another device you own. So you mustn’t enter words more than once. Further you can backup single collections with such an export. You will find the files in the "Export" folder.</string>
+    <string name="faq_answer_02">You have to export a collection if you would like to share it with friends or import it to another device you own. So you mustn’t enter words more than once. Further you can backup single collections with such an export. You will find the files in the \"Export\" folder.</string>
     <string name="faq_question_03">In a nutshell: Backup</string>
-    <string name="faq_answer_03">With backups you save all words in all collections with the corresponding learning progress. The program settings are not saved. Backups will be saved in the "Backup" folder. From there you can load it back later. \nCaution: All words and collections will be deleted if you load a backup.</string>
+    <string name="faq_answer_03">With backups you save all words in all collections with the corresponding learning progress. The program settings are not saved. \nCaution: All words and collections will be deleted if you load a backup.</string>
     <string name="faq_question_04">In a nutshell: Archive</string>
-    <string name="faq_answer_04">Archived collections will not be handled by the "ranking mode". If you need it you can dearchive your collection.</string>
+    <string name="faq_answer_04">Archived collections will not be handled by the \"ranking mode\". If you need it you can dearchive your collection.</string>
     <string name="faq_question_05">It is annoying to write the answer every time. How can I speed up this process?</string>
     <string name="faq_answer_05">At the query it is not necessary to write the answer. You can also leave the input field empty.</string>
     <string name="faq_question_06">How does the reading view work?</string>
     <string name="faq_answer_06">Swipe gestures (up, down, left and right) control the reading view.</string>
-    <string name="faq_question_07">How can I excess my export or backup files by a computer?</string>
-    <string name="faq_answer_07">In the root directory you will find the "VL" folder in which are three other ones. The functions are described in the "info.txt" file.</string>
-    <string name="faq_question_08">Why doesn’t my computer show me all the files in the "VL" sub-folders?</string>
-    <string name="faq_answer_08">A reboot of the device will fix the problem.</string>
     <string name="faq_question_09">Where are the words saved?</string>
     <string name="faq_answer_09">Collections and words will be saved in a SQLite-database. Would you like to excess a collection with a computer or a file-manager you must create a backup or perform an export first.</string>
-    <string name="faq_question_10">What do the numbers on the "Vocabulary" page mean?</string>
+    <string name="faq_question_10">What do the numbers on the \"Vocabulary\" page mean?</string>
     <string name="faq_answer_10">The numbers on the left are showing the rank of the word. If a word rising up its rank the time till next query will increase. On the right site you can see the matching duration (days, hours, minutes).</string>
     <string name="faq_question_11">To be considered by importing a CSV-file</string>
     <string name="faq_answer_11">If you create a CSV-file by yourself be aware you use the semicolon as separation sign. \nThere are six possibilities to arrange the rows of the CSV-file:\n\"Hund\";\"dog\"\n\"Hund\";\"dog\";\"5\"\n\"German\";\"Hund\";\"English\";\"dog\"\n\"German\";\"Hund\";\"English\";\"dog\";\"5\"\n\"German\";\"Hund\";\"English\";\"dog\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\n\"German\";\"Hund\";\"English\";\"dog\";\"5\";\"2013-11-28T00:00\";\"2015-03-06T00:00\"\nIn certain circumstances the quotation marks are not necessary. 5 is the rank. The two time stamps are the date of creation and the date of the last changing of the rank (changing-date).\nWith the changing-date and the current rank you can calculate the moment of the next query:\nRank 1: changing-date + 0 days\nRank 2: changing-date + 3 days\nRank 3: changing-date + 10 days\nRank 4: changing-date + 30 days\nRank 5: changing-date + 90 days\nRank 6: changing-date + 360 days</string>
-    <string name="faq_question_12">What is the meaning of "only from current collection" and "consider language selection"?</string>
-    <string name="faq_answer_12">"Only from current collection" and "consider language selection" are used to limit the words in the current selection (filter). \nIf you select "only from current collection" only the current collection will be taken into account even if you have more then one. Do you have words of different languages you can limit the words taken into account by selecting a language pair.</string>
+    <string name="faq_question_12">What is the meaning of \"only from current collection\" and \"consider language selection\"?</string>
+    <string name="faq_answer_12">\"Only from current collection\" and \"consider language selection\" are used to limit the words in the current selection (filter). \nIf you select \"only from current collection\" only the current collection will be taken into account even if you have more then one. Do you have words of different languages you can limit the words taken into account by selecting a language pair.</string>
 
 
     <plurals name="delete_words">
