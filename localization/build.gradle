@@ -1,8 +1,8 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 27
-    buildToolsVersion '29.0.2'
+    namespace 'com.github.fi3te.vl.localization'
+    compileSdk 34
 
     lintOptions {
         abortOnError false

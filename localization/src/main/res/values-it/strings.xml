@@ -233,10 +233,11 @@
     <string name="one_word">1 vocabolo</string>
     <string name="xxx_words">%d vocaboli</string>
     <string name="move">Sposta</string>
-    <string name="move_to">Sposta in...</string>
+    <string name="move_to">Sposta in ...</string>
     <string name="theme">Design</string>
     <string name="light">Chiaro</string>
     <string name="dark">Scuro</string>
+    <string name="black">Nero</string>
 
     <!-- Unit/Collection -->
     <string name="the_collection_was_imported_successfully">La raccolta è stata importata con successo! </string>
