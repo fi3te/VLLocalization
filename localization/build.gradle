@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace 'com.github.fi3te.vl.localization'
-    compileSdk 34
+    compileSdk 35
 
     lintOptions {
         abortOnError false
