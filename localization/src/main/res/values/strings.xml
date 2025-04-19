@@ -86,12 +86,12 @@
     <string name="import_xxxxxxxxx">Import</string>
     <string name="important_note">Important note</string>
     <string name="imprint">Imprint</string>
-    <string name="in_seconds">in sec.</string>
+    <string name="in_minutes">in minutes</string>
+    <string name="in_seconds">in seconds</string>
     <string name="incorrect_question_mark">incorrect?</string>
     <string name="information">Information</string>
     <string name="input">Input</string>
     <string name="interval">Interval</string>
-    <string name="interval_in_minutes">Interval in minutes</string>
     <string name="label">Label</string>
     <string name="language">Language</string>
     <string name="language1">Language 1</string>
@@ -111,7 +111,6 @@
     <string name="meaning">Meaning</string>
     <string name="meaning1">Meaning 1</string>
     <string name="meaning2">Meaning 2</string>
-    <string name="minutes">Minutes</string>
     <string name="miscellaneous">Miscellaneous</string>
     <string name="mistakes">Mistakes</string>
     <string name="modify">Modify</string>
@@ -161,7 +160,6 @@
     <string name="rank_mode">Rank mode</string>
     <string name="reading_view">Reading view</string>
     <string name="reading_view_caption">► Reading view</string>
-    <string name="recommended_value">recommended value</string>
     <string name="red">Red</string>
     <string name="remove">Remove</string>
     <string name="remove_whitespaces">Input: Remove whitespaces</string>
@@ -278,6 +276,10 @@
     <string name="faq_answer_12">\"Only from current collection\" and \"consider language selection\" are used to limit the words in the current selection (filter). \nIf you select \"only from current collection\" only the current collection will be taken into account even if you have more then one. Do you have words of different languages you can limit the words taken into account by selecting a language pair.</string>
 
 
+    <plurals name="minutes">
+        <item quantity="one">Minute</item>
+        <item quantity="other">Minutes</item>
+    </plurals>
     <plurals name="delete_words">
         <item quantity="one">Delete word</item>
         <item quantity="other">Delete words</item>

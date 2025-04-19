@@ -66,7 +66,6 @@
     <string name="delete_current_collection">Aktuelle Sammlung entfernen</string>
     <string name="day">Tag</string>
     <string name="days">Tage</string>
-    <string name="minutes">Minuten</string>
     <string name="warning_all_data_will_be_deleted_before_loading">Warnung: Alle Daten werden vor dem Laden gelöscht!</string>
     <string name="the_collection_was_changed">Die Sammlung wurde gewechselt!</string>
     <string name="no_csv_files_available">Keine CSV-Dateien vorhanden.</string>
@@ -84,8 +83,6 @@
     <string name="optionally_enter_a_name">Geben Sie optional einen Namen ein</string>
     <string name="errors_have_occurred">Fehler sind aufgetreten</string>
     <string name="no_zip_files_available">Kein ZIP-Dateien vorhanden.</string>
-    <string name="interval_in_minutes">Intervall in Minuten</string>
-    <string name="recommended_value">empfohlener Wert</string>
     <string name="background_process_summary">impliziert Autostart und Benachrichtigungen \n\nDer Hintergrundprozess prüft, ob Vokabeln abgefragt werden müssen.</string>
     <string name="all_vocabulary">Alle Vokabeln</string>
     <string name="all_vocabulary_without_archive">Alle Vokabeln (ohne Archiv)</string>
@@ -152,7 +149,8 @@
     <string name="time_match_caption">► Zeitspiel</string>
     <string name="time_surcharge">Zeitzuschlag</string>
     <string name="time_deduction">Zeitabzug</string>
-    <string name="in_seconds">in Sek.</string>
+    <string name="in_minutes">in Minuten</string>
+    <string name="in_seconds">in Sekunden</string>
     <string name="time_match_is_running">Zeitspiel läuft gerade</string>
     <string name="remove_whitespaces_information">entfernt bei der Eingabe unnötige Leerzeichen vor dem ersten und nach dem letzten Wort der Vokabel (auch doppelte Leerzeichen zwischen einzelnen Wörtern werden entfernt)</string>
     <string name="contact">E-Mail: fiete.wennier@gmail.com \nTel.: auf Anfrage</string>
@@ -284,6 +282,10 @@
     <string name="faq_answer_12">\"nur aus der aktuellen Sammlung\" und \"Sprachauswahl berücksichtigen\" dienen dazu, nur bestimmte Vokabeln in der aktuellen Auswahl zu haben (Filter).\nHat man mehrere Sammlungen angelegt, wird nur die aktuelle Sammlung berücksichtigt, wenn man \"nur aus der aktuellen Sammlung\" angewählt hat.\nHat man Vokabeln unterschiedlicher Sprachen in der App, kann man die aktuelle Auswahl weiter über die Sprachauswahl filtern.</string>
 
 
+    <plurals name="minutes">
+        <item quantity="one">Minute</item>
+        <item quantity="other">Minuten</item>
+    </plurals>
     <plurals name="delete_words">
         <item quantity="one">Vokabel löschen</item>
         <item quantity="other">Vokabeln löschen</item>

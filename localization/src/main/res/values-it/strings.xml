@@ -66,7 +66,6 @@
     <string name="delete_current_collection">Elimina la raccolta attuale</string>
     <string name="day">Giorno</string>
     <string name="days">Giorni</string>
-    <string name="minutes">Minuti</string>
     <string name="warning_all_data_will_be_deleted_before_loading">Attenzione: Prima del caricamento tutti i dati saranno cancellati!</string>
     <string name="the_collection_was_changed">La raccolta è stata cambiata!</string>
     <string name="no_csv_files_available">Nessun dato CSV disponibile.</string>
@@ -84,8 +83,6 @@
     <string name="optionally_enter_a_name">Inserisci un nome (opzionale)</string>
     <string name="errors_have_occurred">Si è verificato un problema.</string>
     <string name="no_zip_files_available">Nessun file zip disponibile.</string>
-    <string name="interval_in_minutes">Intervallo in minuti</string>
-    <string name="recommended_value">Valore consigliato</string>
     <string name="background_process_summary">Implica avvio automatico e notifiche \n\n Il processo in background verifica se ci sono vocaboli si quali bisogna essere interrogati.</string>
     <string name="all_vocabulary">Tutti i vocaboli</string>
     <string name="all_vocabulary_without_archive">Tutti i vocaboli (senza archivio)</string>
@@ -152,6 +149,7 @@
     <string name="time_match_caption">► Gioco a tempo</string>
     <string name="time_surcharge">Aggiunta di tempo</string>
     <string name="time_deduction">Detrazione di tempo</string>
+    <string name="in_minutes">in minuti</string>
     <string name="in_seconds">in secondi</string>
     <string name="time_match_is_running">Il gioco a tempo è in corso</string>
     <string name="remove_whitespaces_information">All’inserimento vengono eliminati gli spazi superflui prima della parola iniziale del vocabolo e dopo l’ultima parola; vengono eliminati anche spazi doppi tra singole parole.</string>
@@ -284,6 +282,10 @@
     <string name="faq_answer_12">Le opzioni \"Solo dalla raccolta attuale\" e \"Considera la lingua selezionata\" servono ad avere solo determinati vocaboli nella selezione attuale (filtro).\nSe sono state create più raccolte, quando si seleziona \"Solo dalla raccolta attuale\" viene presa in considerazione solo la raccolta corrente.\nSe nell’app ci sono vocaboli in diverse lingue, si può filtrare ulteriormente la selezione corrente selezionando la lingua.</string>
 
 
+    <plurals name="minutes">
+        <item quantity="one">Minuto</item>
+        <item quantity="other">Minuti</item>
+    </plurals>
     <plurals name="delete_words">
         <item quantity="one">Elimina vocabolo</item>
         <item quantity="other">Elimina vocaboli</item>
