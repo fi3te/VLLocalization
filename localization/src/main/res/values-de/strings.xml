@@ -236,6 +236,8 @@
     <string name="light">Hell</string>
     <string name="dark">Dunkel</string>
     <string name="black">Schwarz</string>
+    <string name="update_query_date_after_word_editing">Vokabeln: Neuberechnung des Abfragezeitpunkts</string>
+    <string name="update_query_date_after_word_editing_information">berechnet für eine bearbeitete Vokabel den Zeitpunkt der nächsten Abfrage neu</string>
 
     <!-- Unit/Collection -->
     <string name="the_collection_was_imported_successfully">Die Sammlung wurde erfolgreich importiert!</string>

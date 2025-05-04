@@ -236,6 +236,8 @@
     <string name="light">Chiaro</string>
     <string name="dark">Scuro</string>
     <string name="black">Nero</string>
+    <string name="update_query_date_after_word_editing">Vocaboli: Ricalcolo del tempo di interrogazione</string>
+    <string name="update_query_date_after_word_editing_information">ricalcola l\'ora della prossima interrogazione per una parola del vocabolario modificata</string>
 
     <!-- Unit/Collection -->
     <string name="the_collection_was_imported_successfully">La raccolta è stata importata con successo! </string>

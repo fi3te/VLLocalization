@@ -222,6 +222,8 @@
     <string name="time_surcharge">Time surcharge</string>
     <string name="update_widgets">Update widgets</string>
     <string name="updates">Thx!</string>
+    <string name="update_query_date_after_word_editing">Vocabulary: Query time recalculation</string>
+    <string name="update_query_date_after_word_editing_information">recalculates the time of the next query for an edited word</string>
     <string name="version">Version</string>
     <string name="vocabulary_of_the_language">Vocabulary of the language</string>
     <string name="vocabulary_test_10">Vocabulary test (10)</string>
