@@ -94,6 +94,7 @@
     <string name="interval">Interval</string>
     <string name="label">Label</string>
     <string name="language">Language</string>
+    <string name="language_selection">Language selection</string>
     <string name="language1">Language 1</string>
     <string name="language2">Language 2</string>
     <string name="learn">Learn</string>
@@ -249,6 +250,7 @@
     <string name="xxx_words">%d words</string>
     <string name="move">Move</string>
     <string name="move_to">Move to ...</string>
+    <string name="select_all">Select all</string>
     <string name="theme">Theme</string>
     <string name="light">Light</string>
     <string name="dark">Dark</string>

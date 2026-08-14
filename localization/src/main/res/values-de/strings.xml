@@ -161,6 +161,7 @@
     <string name="navigation">Navigation</string>
     <string name="close">Schließen</string>
     <string name="language">Sprache</string>
+    <string name="language_selection">Sprachauswahl</string>
     <string name="meaning">Bedeutung</string>
     <string name="identifier">Bezeichnung</string>
     <string name="text">Text</string>
@@ -232,6 +233,7 @@
     <string name="xxx_words">%d Vokabeln</string>
     <string name="move">Verschieben</string>
     <string name="move_to">Verschieben nach ...</string>
+    <string name="select_all">Alle auswählen</string>
     <string name="theme">Design</string>
     <string name="light">Hell</string>
     <string name="dark">Dunkel</string>
