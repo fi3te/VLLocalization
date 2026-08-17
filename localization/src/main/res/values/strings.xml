@@ -259,7 +259,7 @@
 
     <!-- FAQ -->
     <string name="faq_question_01">In a nutshell: Import a collection</string>
-    <string name="faq_answer_01">You can import words from a JSON- or CSV-file. \nFurther informations: \"To be considered by importing a CSV-file\"</string>
+    <string name="faq_answer_01">You can import words from a JSON-, CSV-, or APKG-file. \nFurther informations: \"To be considered by importing a CSV-file\"</string>
     <string name="faq_question_02">In a nutshell: Export a collection</string>
     <string name="faq_answer_02">You have to export a collection if you would like to share it with friends or import it to another device you own. So you mustn’t enter words more than once. Further you can backup single collections with such an export. You will find the files in the \"Export\" folder.</string>
     <string name="faq_question_03">In a nutshell: Backup</string>

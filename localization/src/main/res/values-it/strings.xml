@@ -265,7 +265,7 @@
 
     <!-- FAQ -->
     <string name="faq_question_01">In breve: importare raccolta</string>
-    <string name="faq_answer_01">I vocaboli devono essere importati a partire da un file JSON o CSV. \n Informazioni supplementari: A che cosa occorre fare attenzione durante l’importazione di un file CSV?</string>
+    <string name="faq_answer_01">I vocaboli devono essere importati a partire da un file JSON, CSV o APKG. \n Informazioni supplementari: A che cosa occorre fare attenzione durante l’importazione di un file CSV?</string>
     <string name="faq_question_02">In breve: esportare raccolta</string>
     <string name="faq_answer_02">Le raccolte esportate possono essere condivise con amici o importate su altri apparecchi propri. In questo modo i vocaboli non devono essere inseriti più volte nel programma. Questa funzione serve anche come backup di una singola raccolta.</string>
     <string name="faq_question_03">In breve: il backup</string>

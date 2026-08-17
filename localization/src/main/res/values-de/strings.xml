@@ -265,7 +265,7 @@
 
     <!-- FAQ -->
     <string name="faq_question_01">Kurz erklärt: Sammlung importieren</string>
-    <string name="faq_answer_01">Vokabeln können aus einer JSON- oder CSV-Datei importiert werden. \nWeitere Informationen: Was muss beim Importieren einer CSV-Datei beachtet werden?</string>
+    <string name="faq_answer_01">Vokabeln können aus einer JSON-, CSV- oder APKG-Datei importiert werden. \nWeitere Informationen: Was muss beim Importieren einer CSV-Datei beachtet werden?</string>
     <string name="faq_question_02">Kurz erklärt: Sammlung exportieren</string>
     <string name="faq_answer_02">Exportierte Sammlungen können mit Freunden geteilt werden oder auf eigenen anderen Geräten importiert werden. Dadurch müssen Vokabeln nicht mehrmals eingegeben werden. Diese Funktion dient auch als Backup einer einzelnen Sammlung.</string>
     <string name="faq_question_03">Kurz erklärt: Backup</string>
